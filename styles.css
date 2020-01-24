@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+.stars {
+    padding-left: 20rem;
+}
+
+.stars .fa-star {
+    font-size: 3rem;
+    list-style: none;
+    border: 2px solid white;
+}
+
+.stars .fa-star:hover {
+    border: 2px solid goldenrod !important;
+}
+
+.checked {
+    color: goldenrod;
+}
